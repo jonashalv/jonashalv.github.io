@@ -1,4 +1,6 @@
 #theme: jekyll-theme-minimal
+theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
@@ -7,5 +9,3 @@ relative_links:
   collections: true
 include:
   - README.md
-
-theme: "mmistakes/minimal-mistakes@4.16.4"
