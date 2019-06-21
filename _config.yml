@@ -11,6 +11,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
+  - jekyll-sitemap
+
 relative_links:
   enabled: true
   collections: true
