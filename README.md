@@ -1,7 +1,7 @@
 # Jonas Halvorsen, PhD
 I am a research scientist at the [Norwegian Defence Research Establishment (FFI)](http://www.ffi.no). My research interests include federation of graph queries, automated reasoning, logic programing, and knowledge graphs. I did my PhD at the [University of Oslo](http://www.ifi.uio.no), with the thesis topic "Sound and complete query federation of SPARQL BGPs", and did my MSc in Artificial Intelligence (Knowledge Representation and Reasoning) at the [University of Edinburgh](https://www.ed.ac.uk/informatics/).
 
-[Google Scholar](https://scholar.google.no/citations?user=mZZHmEMAAAAJ) / [LinkedIn](https://www.linkedin.com/in/jhalv/) / [DBLP](https://dblp.uni-trier.de/pers/hd/h/Halvorsen:Jonas)
+[Google Scholar](https://scholar.google.no/citations?user=mZZHmEMAAAAJ) / [LinkedIn](https://www.linkedin.com/in/jhalv/) / [DBLP](https://dblp.uni-trier.de/pers/hd/h/Halvorsen:Jonas) / [orcid](https://orcid.org/0000-0002-2662-2014)
 
 ## Publications
 For up-to-date information, check [Google Scholar](https://scholar.google.no/citations?user=mZZHmEMAAAAJ).
